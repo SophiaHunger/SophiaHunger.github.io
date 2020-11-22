@@ -20,7 +20,7 @@ title                    : "Sophia Hunger"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sophia Hunger"
-description              : "Personal website"
+description              : "Post-doctoral fellow at WZB Berlin | Political Science | Political Sociology | Research interests: party competition, protest, text-as-data"
 url                      : https://sophiahunger.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               :  SophiaHunger/SophiaHunger.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
