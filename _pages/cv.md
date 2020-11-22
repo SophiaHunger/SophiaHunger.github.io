@@ -1,7 +1,7 @@
 ---
 title: "CV"
 permalink: /cv/
-author: true
+author_profile: true
 date: 23.11.2020
 ---
 
