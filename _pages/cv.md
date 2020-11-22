@@ -1,4 +1,5 @@
 ---
+layout: sinlge
 title: "CV"
 permalink: /cv/
 author_profile: true
