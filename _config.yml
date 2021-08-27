@@ -115,9 +115,11 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SophiaHunger"
     - label: "ORCID"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-users"
       url: "https://orcid.org/0000-0002-3859-5674"
-
+    - label: "google scholar"
+      icon: "fab fa-fw fa-book"
+      url: "https://scholar.google.com/citations?user=4c0gU-MAAAAJ&hl=de"
 # Site Footer
 footer:
   links:
