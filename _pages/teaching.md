@@ -15,4 +15,4 @@ author_profile: true
 
 ## Training
 
-  - Certificate:Teaching in higher education, EUI (fall 2018
+  - Certificate: Teaching in higher education, EUI (fall 2018)
