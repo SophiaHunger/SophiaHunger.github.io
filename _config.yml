@@ -104,7 +104,7 @@ author:
       url: "mailto:sophia.hunger@wzb.eu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "sophiahunger.eu"
+      url: "https://sophiahunger.eu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/SophiaHunger"
@@ -114,9 +114,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SophiaHunger"
-    - label: "Instagram"
+    - label: "ORCID"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://orcid.org/0000-0002-3859-5674"
 
 # Site Footer
 footer:
