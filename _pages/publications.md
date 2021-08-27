@@ -5,4 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-Many thanks for your interest. You can download my CV below. 
+## Peer reviewed papers
