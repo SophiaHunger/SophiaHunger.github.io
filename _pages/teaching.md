@@ -1,12 +1,9 @@
 ---
 layout: single
-title: "Teaching"
+title: "Teaching & training"
 permalink: /teaching/
 author_profile: true
 ---
-
-# Teaching experience & training
-
 
 ## Postgraduate
 
