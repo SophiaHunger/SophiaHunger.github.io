@@ -8,7 +8,7 @@ author_profile: true
 Thank you for visiting my homepage.
 
 
-I am a post-doctoral research fellow at the [Center for Civil Society Research](https://www.wzb.eu/en/research/trans-sectoral-research/center-for-civil-society-research), which is located at the [WZB Berlin Social Science Center](https://www.wzb.eu/en). 
+I am a post-doctoral research fellow at the [Center for Civil Society Research](https://www.wzb.eu/en/research/trans-sectoral-research/center-for-civil-society-research) located at the [WZB Berlin Social Science Center](https://www.wzb.eu/en). 
 
 My research focuses on protest movements, political engagement, party competition, political communication, and applied quantitative methods, particularly quantitative text analysis and automated event extraction.
 
