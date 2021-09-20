@@ -4,12 +4,6 @@
 
 $link-color: maroon;
 
-#img-link, #img-link img{
-    text-decoration:none;
-    border-width: 0px;
-}
-
-
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
