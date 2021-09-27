@@ -23,5 +23,5 @@ I obtained my doctorate at the [European University Institute](https://www.eui.e
 
   - *abstract:* Although attention to populism is ever-increasing, the concept remains contested. This paper provides a comprehensive overview of populism research and identifies tendencies to a conflation of host ideologies and populism in political science through a two-step analysis. First, we conduct a quantitative review of 884 abstracts from 2004 to 2018 using text-as-data methods. We show that scholars sit at "separate tables," divided by geographical foci, methods, and host ideologies. Next, our qualitative analysis of 50 articles finds a common conflation of populism with other ideologies, resulting in the analytical neglect of the former. We, therefore, urge researchers to properly distinguish populism from "what it travels with" and engage more strongly with the dynamic interlinkages between thin and thick ideologies.
 
-  - *more:* [summary on twitter](https://twitter.com/SophiaHunger/status/1439939640195223555), [replication files](https://doi.org/10.7910/DVN/3UBYWY)
+  - *more:* [replication files](https://doi.org/10.7910/DVN/3UBYWY), [summary on twitter](https://twitter.com/SophiaHunger/status/1439939640195223555), 
 
