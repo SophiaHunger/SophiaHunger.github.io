@@ -19,6 +19,10 @@ I obtained my doctorate at the [European University Institute](https://www.eui.e
 
 **News**
 
+*Coverage of the German federal election*
+
+  - I wrote a small piece on the developments during the election night, which was published in El País [(in Spanish)](https://elpais.com/internacional/2021-09-26/carrera-renida-largas-negociaciones-por-delante-y-verdes-y-liberales-como-partidos-bisagra.html) and on Agenda Pública [(in English)](https://agendapublica.es/close-race-long-negotiations-ahead-and-greens-and-liberals-as-kingmakers/)
+
 *Publication alert: ["What's in a buzzword?"](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/whats-in-a-buzzword-a-systematic-review-of-the-state-of-populism-research-in-political-science/D9CD5E7E13DFA30FD05D41F32E6C122B) (w/ [Fred Paxton](https://fredpaxton.com/)) out now in Political Science Research & Methods*
 
   - *abstract:* Although attention to populism is ever-increasing, the concept remains contested. This paper provides a comprehensive overview of populism research and identifies tendencies to a conflation of host ideologies and populism in political science through a two-step analysis. First, we conduct a quantitative review of 884 abstracts from 2004 to 2018 using text-as-data methods. We show that scholars sit at "separate tables," divided by geographical foci, methods, and host ideologies. Next, our qualitative analysis of 50 articles finds a common conflation of populism with other ideologies, resulting in the analytical neglect of the former. We, therefore, urge researchers to properly distinguish populism from "what it travels with" and engage more strongly with the dynamic interlinkages between thin and thick ideologies.
