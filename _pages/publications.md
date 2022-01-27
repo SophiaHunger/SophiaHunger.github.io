@@ -7,6 +7,9 @@ author_profile: true
 
 ## Peer reviewed papers
 
+Gessler, Theresa, and Sophia Hunger. 2021. How the Refugee Crisis and Radical Right Parties Shape Party Competition on Immigration. *Political Science Research and Methods.* [article](https://doi.org/10.1017/psrm.2021.64{doi.org/10.1017/psrm.2021.44)  [replication material](https://www.doi.org/10.7910/DVN/IDEI04)
+
+
 Hunger, Sophia and Fred Paxton. forthcoming. What’s in a Buzzword? A Systematic Review of the State of Populism Research in Political Science.  *Political Science Research and Methods.* [article](https://doi.org/10.1017/psrm.2021.44{doi.org/10.1017/psrm.2021.44)  [replication material](https://www.doi.org/10.7910/DVN/3UBYWY)
 
 Borbáth, Endre, Sophia Hunger, Swen Hutter, and Ioana-Elena Oana. 2021. Civic and Political Engagement during the Multifaceted COVID-19 Crisis, *Swiss Political Science Review,* online first [article](https://doi.org/10.1111/spsr.12446) [replication material](https://www.doi.org/10.7910/DVN/YNBJWK)
