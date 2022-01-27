@@ -19,6 +19,12 @@ I obtained my doctorate at the [European University Institute](https://www.eui.e
 
 **News**
 
+*Nov 15, 2021: Publication alert: ["How the refugee crisis and radical right parties shape party competition on immigration"](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/how-the-refugee-crisis-and-radical-right-parties-shape-party-competition-on-immigration/ACFDD7C29E6EB431BCADF194FE114DE4) (w/ [Theresa Gessler](https://theresagessler.eu/)) out now in Political Science Research & Methods*
+
+  - *abstract:* While the structure of party competition evolves slowly, crisis-like events can induce short-term change to the political agenda. This may be facilitated by challenger parties who might benefit from increased attention to issues they own. We study the dynamic of such shifts through mainstream parties’ response to the 2015 refugee crisis, which strongly affected public debate and election outcomes across Europe. Specifically, we analyse how parties changed their issue emphasis and positions regarding immigration before, during, and after the refugee crisis. Our study is based on a corpus of 120,000 press releases between 2013 and 2017 from Austria, Germany, and Switzerland. We identify immigration-related press releases using a novel dictionary and estimate party positions. The resulting monthly salience and positions measures allow for studying changes in close time-intervals, providing crucial detail for disentangling the impact of the crisis itself and the contribution of right-wing parties. While we provide evidence that attention to immigration increased drastically for all parties during the crisis, radical right parties drove the attention of mainstream parties. However, the attention of mainstream parties to immigration decreased toward the end of the refugee crisis and there is limited evidence of parties accommodating the positions of the radical right.
+  - *more:* [replication files](https://doi.org/10.7910/DVN/IDEI04), [summary on twitter](https://twitter.com/th_ges/status/1460567853334241285?s=20), 
+
+
 *Coverage of the German federal election*
 
   - I wrote a small piece on the developments during the election night, which was published in El País [(in Spanish)](https://elpais.com/internacional/2021-09-26/carrera-renida-largas-negociaciones-por-delante-y-verdes-y-liberales-como-partidos-bisagra.html) and on Agenda Pública [(in English)](https://agendapublica.es/close-race-long-negotiations-ahead-and-greens-and-liberals-as-kingmakers/)
