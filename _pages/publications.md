@@ -35,6 +35,15 @@ Hunger, Sophia and Jasmine Lorenzini. 2020. *All quiet on the protest scene? -- 
 
 ## Other publications
 
+Grande, Edgar, Sophia Hunger, Swen Hutter, Eylem Kanol und Daniel Saldivia Gonzatti. 2022. [Der harte Kern
+der Proteste Viele der mit den Corona-Maßnahmen Unzufriedenen tolerieren Radikalität und Gewalt.](https://bibliothek.wzb.eu/artikel/2022/f-24807.pdf), *WZB-Mitteilungen* (176), 21-24.
+
+Hunger, Sophia. 2021. [Carrera reñida, largas negociaciones por delante y verdes y liberales como partidos bisagra.](http://elpais.com/internacional/2021-09-26/carrera-renida-largas-negociaciones-por-delante-y-verdes-y-liberales-como-partidos-bisagra.html), *El País online.*
+
+Hunger, Sophia. 2021. [Close Race, Long Negotiations ahead and Greens and Liberals as Kingmakers](https://agendapublica.es/close-race-long-negotiations-ahead-and-greens-and-liberals-as-kingmakers), *Agenda pública - Analistas de la actualidad.*
+
+Hunger, Sophia, Teresa Völker, and Daniel Saldivia Gonzatti. 2021. [Der Verlust der Vielfalt. Die Corona-Proteste in Deutschland werden durch eine radikale Minderheit geprägt.](\href{https://bibliothek.wzb.eu/artikel/2021/f-23998.pdf), *WZB-Mitteilungen* (172), pp. 30-32.
+
 Grande, Edgar, Swen Hutter, Sophia Hunger and Eylem Kanol. 2021. [Alles Covidioten? Politische Potenziale des Corona-Protests in Deutschland.](https://bibliothek.wzb.eu/pdf/2021/zz21-601.pdf) No. ZZ 2021-601. *WZB Discussion Paper*. 
 
 Hunger, Sophia and Swen Hutter. 2020. [Online Strikes with the Usual Suspects. How Fridays for Future Has Coped with the Covid-19 Pandemic](https://blogs.lse.ac.uk/europpblog/2020/06/29/online-strikes-with-the-usual-suspects-how-fridays-for-future-has-coped-with-the-covid-19-pandemic/). *LSE EUROPP Blog - European Politics and Policy.*
