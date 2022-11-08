@@ -15,7 +15,7 @@ Gessler, Theresa, and Sophia Hunger. 2022. How the Refugee Crisis and Radical Ri
 
 Hunger, Sophia and Fred Paxton. 2022. What’s in a Buzzword? A Systematic Review of the State of Populism Research in Political Science.  *Political Science Research and Methods* 10(3), 617-633. [article](https://doi.org/10.1017/psrm.2021.44) [replication material](https://www.doi.org/10.7910/DVN/3UBYWY)
 
-Borbáth, Endre, Sophia Hunger, Swen Hutter, and Ioana-Elena Oana. 2021. Civic and Political Engagement during the Multifaceted COVID-19 Crisis. *Swiss Political Science Review* 27, 311-324. [article](https://doi.org/10.1111/spsr.12446, [replication material](https://www.doi.org/10.7910/DVN/YNBJWK)
+Borbáth, Endre, Sophia Hunger, Swen Hutter, and Ioana-Elena Oana. 2021. Civic and Political Engagement during the Multifaceted COVID-19 Crisis. *Swiss Political Science Review* 27, 311-324. [article](https://doi.org/10.1111/spsr.12446), [replication material](https://www.doi.org/10.7910/DVN/YNBJWK)
 
 Hunger, Sophia, and Swen Hutter. 2021. Fridays for Future in der Corona-Krise. *Forschungsjournal Soziale Bewegungen* 34(2): 218-234. [article](https://doi.org/10.1515/fjsb-2021-0019)
 
