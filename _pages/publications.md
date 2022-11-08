@@ -7,11 +7,15 @@ author_profile: true
 
 ## Peer reviewed papers
 
-Gessler, Theresa, and Sophia Hunger. 2021. How the Refugee Crisis and Radical Right Parties Shape Party Competition on Immigration. *Political Science Research and Methods.* [article](https://doi.org/10.1017/psrm.2021.64),  [replication material](https://www.doi.org/10.7910/DVN/IDEI04)
+Breznau, Nate, et al. 2022. Observing many researchers using the same data and hypothesis reveals a hidden universe of uncertainty. *Proceedings of the National Academy of Sciences* 119(44). [article](https://doi.org/10.1073/pnas.2203150119}{doi.org/10.1073/pnas.2203150119)
 
-Hunger, Sophia and Fred Paxton. 2021. What’s in a Buzzword? A Systematic Review of the State of Populism Research in Political Science.  *Political Science Research and Methods.* [article](https://doi.org/10.1017/psrm.2021.44) [replication material](https://www.doi.org/10.7910/DVN/3UBYWY)
+Williams, Christopher J. and Sophia Hunger. 2022. How challenger party issue entrepreneurship and mainstream party strategies drive public issue salience: evidence from radical-right parties and the issue of immigration. *European Political Science Review*, online first. [article](https://doi.org/10.1017/S1755773922000297}{doi.org/10.1017/S1755773922000297)
 
-Borbáth, Endre, Sophia Hunger, Swen Hutter, and Ioana-Elena Oana. 2021. Civic and Political Engagement during the Multifaceted COVID-19 Crisis. *Swiss Political Science Review,* online first [article](https://doi.org/10.1111/spsr.12446, [replication material](https://www.doi.org/10.7910/DVN/YNBJWK)
+Gessler, Theresa, and Sophia Hunger. 2022. How the Refugee Crisis and Radical Right Parties Shape Party Competition on Immigration. *Political Science Research and Methods* 10(3), 524-544. [article](https://doi.org/10.1017/psrm.2021.64),  [replication material](https://www.doi.org/10.7910/DVN/IDEI04)
+
+Hunger, Sophia and Fred Paxton. 2022. What’s in a Buzzword? A Systematic Review of the State of Populism Research in Political Science.  *Political Science Research and Methods* 10(3), 617-633. [article](https://doi.org/10.1017/psrm.2021.44) [replication material](https://www.doi.org/10.7910/DVN/3UBYWY)
+
+Borbáth, Endre, Sophia Hunger, Swen Hutter, and Ioana-Elena Oana. 2021. Civic and Political Engagement during the Multifaceted COVID-19 Crisis. *Swiss Political Science Review* 27, 311-324. [article](https://doi.org/10.1111/spsr.12446, [replication material](https://www.doi.org/10.7910/DVN/YNBJWK)
 
 Hunger, Sophia, and Swen Hutter. 2021. Fridays for Future in der Corona-Krise. *Forschungsjournal Soziale Bewegungen* 34(2): 218-234. [article](https://doi.org/10.1515/fjsb-2021-0019)
 
