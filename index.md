@@ -8,13 +8,18 @@ author_profile: true
 Thank you for visiting my homepage.
 
 
-I am a post-doctoral research fellow at the [Center for Civil Society Research](https://www.wzb.eu/en/research/trans-sectoral-research/center-for-civil-society-research) located at the [WZB Berlin Social Science Center](https://www.wzb.eu/en). 
+I am a post-doctoral research fellow at the [Center for Civil Society Research](https://www.wzb.eu/en/research/trans-sectoral-research/center-for-civil-society-research) located at the [WZB Berlin Social Science Center](https://www.wzb.eu/en). I recieved my doctorate from the [European University Institute](https://www.eui.eu/) in 2020.
 
-My research focuses on protest movements, political engagement, party competition, political communication, and applied quantitative methods, particularly quantitative text analysis and automated event extraction.
+My research focuses on protest movements, political engagement, party competition, political communication, and applied quantitative methods, particularly quantitative text analysis and automated event extraction. Currently, my largest methodological undertaking is the automatization of Protest Event Analysis with cutting-edge methods in order to facilitate research on how protest shapes and affects modern societies. I am furthermore interested in developing new methods to measure positions, polarization, and resonance in political communication and public debate.  
 
-In the [WZB Protest Monitoring](https://www.wzb.eu/en/research/trans-sectoral-research/center-for-civil-society-research/projects/politischer-protest-und-radikalisierung-protest-monitoring), a BMBF- and BMI-financed research project on political radicalization and protest in Germany, I am responsible for the construction of a database on protest events in Germany.
+<!--In the [WZB Protest Monitoring](https://www.wzb.eu/en/research/trans-sectoral-research/center-for-civil-society-research/projects/politischer-protest-und-radikalisierung-protest-monitoring), a BMBF- and BMI-financed research project on political radicalization and protest in Germany, I am responsible for the construction of a database on protest events in Germany. -->
 
-I obtained my doctorate at the [European University Institute](https://www.eui.eu/) in 2020, where I was also involved in the [ERC-POLCON project](https://www.eui.eu/projects/polcon). In my [PhD project](https://cadmus.eui.eu/handle/1814/67650), I engaged with the impact of populist radical right parties on party competition in Europe. 
+<!--I obtained my doctorate at the [European University Institute](https://www.eui.eu/) in 2020, where I was also involved in the [ERC-POLCON project](https://www.eui.eu/projects/polcon). In my [PhD project](https://cadmus.eui.eu/handle/1814/67650), I engaged with the impact of populist radical right parties on party competition in Europe.-->
+
+My work has been published in *Political Science Research and Methods*, *European Political Science Review,* *Swiss Political Science Review*, *Forschungsjournal
+Soziale Bewegungen,* and Zeitschrift für Vergleichende Politikwissenschaft.* I am engaged in public debates on protest and electoral behaviour and have contributed expert opions to [ARD](https://www.daserste.de/information/politik-weltgeschehen/morgenmagazin/berichte-und-interviews/Sophia-Hunger-Protestforscherin-zu-Klimaaktivisten-100.html), [ZDF](https://www.zdf.de/nachrichten/heute-19-uhr/klima-aktivisten-berlin-parteizentralen-video-100.html), [Süddeutsche Zeitung](https://www.sueddeutsche.de/projekte/artikel/jetzt/layla-ikke-hueftgold-oktoberfest-sexismus-protest-schlager-e102222/?reduced=true), [Deutschlandfunk](https://www.deutschlandfunk.de/kleben-fuers-klima-sophia-hunger-ueber-kulturgeschichtliche-dimensionen-dlf-ec662ea5-100.html)[Berliner Tagesspiegel](https://www.tagesspiegel.de/berlin/protestforscher-zu-blockaden-der-letzten-generation-in-berlin-eine-blockade-von-noteinsatzen-wurde-den-moralischen-anspruch-untergraben-8818129.html), [France24](https://www.france24.com/en/europe/20220121-weekly-protests-against-mandatory-vaccination-increase-in-germany), among others. 
+
+
 
 
 **News**
