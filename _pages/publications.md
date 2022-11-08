@@ -42,7 +42,7 @@ Hunger, Sophia. 2021. [Carrera reñida, largas negociaciones por delante y verde
 
 Hunger, Sophia. 2021. [Close Race, Long Negotiations ahead and Greens and Liberals as Kingmakers](https://agendapublica.es/close-race-long-negotiations-ahead-and-greens-and-liberals-as-kingmakers), *Agenda pública - Analistas de la actualidad.*
 
-Hunger, Sophia, Teresa Völker, and Daniel Saldivia Gonzatti. 2021. [Der Verlust der Vielfalt. Die Corona-Proteste in Deutschland werden durch eine radikale Minderheit geprägt.](\href{https://bibliothek.wzb.eu/artikel/2021/f-23998.pdf), *WZB-Mitteilungen* (172), pp. 30-32.
+Hunger, Sophia, Teresa Völker, and Daniel Saldivia Gonzatti. 2021. [Der Verlust der Vielfalt. Die Corona-Proteste in Deutschland werden durch eine radikale Minderheit geprägt.](https://bibliothek.wzb.eu/artikel/2021/f-23998.pdf), *WZB-Mitteilungen* (172), pp. 30-32.
 
 Grande, Edgar, Swen Hutter, Sophia Hunger and Eylem Kanol. 2021. [Alles Covidioten? Politische Potenziale des Corona-Protests in Deutschland.](https://bibliothek.wzb.eu/pdf/2021/zz21-601.pdf) No. ZZ 2021-601. *WZB Discussion Paper*. 
 
