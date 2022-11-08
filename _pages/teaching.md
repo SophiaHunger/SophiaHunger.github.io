@@ -7,6 +7,7 @@ author_profile: true
 
 ## Postgraduate
 
+  - Research seminar (MA Sociology): Dynamics of Protest Politics (4 hrs, weekly, one semster, co-taught), Free University of Berlin, winter 2022 
   - Methods Workshop for members of the Junge Akadmie:Text-as-data-approaches and automated text analysis (1,5 days, spring 2021)
   - Ph.D. Seminar:Text as data. An introduction into quantitative text analysis with R Quanteda, EUI (2 day workshop, with Theresa Gessler, spring 2018)
 
