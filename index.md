@@ -8,7 +8,7 @@ author_profile: true
 Thank you for visiting my homepage.
 
 
-I am assissant professor for Computuational Social Science at the University of Bremen. Previousl,y I was post-doctoral research fellow at the [Center for Civil Society Research](https://www.wzb.eu/en/research/trans-sectoral-research/center-for-civil-society-research) located at the [WZB Berlin Social Science Center](https://www.wzb.eu/en), where I am still associated as guest researcher. I recieved my doctorate from the [European University Institute](https://www.eui.eu/) in 2020.
+I am assistant professor for Computuational Social Science at the University of Bremen. Previousl,y I was post-doctoral research fellow at the [Center for Civil Society Research](https://www.wzb.eu/en/research/trans-sectoral-research/center-for-civil-society-research) located at the [WZB Berlin Social Science Center](https://www.wzb.eu/en), where I am still associated as guest researcher. I recieved my doctorate from the [European University Institute](https://www.eui.eu/) in 2020.
 
 My research focuses on protest movements, political engagement, party competition, political communication, and applied quantitative methods, particularly quantitative text analysis and automated event extraction. Currently, my largest methodological undertaking is the automatization of Protest Event Analysis with cutting-edge methods in order to facilitate research on how protest shapes and affects modern societies. I am furthermore interested in developing new methods to measure positions, polarization, and resonance in political communication and public debate.  
 
