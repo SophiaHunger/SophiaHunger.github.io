@@ -20,7 +20,7 @@ title                    : "Sophia Hunger"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sophia Hunger"
-description              : "Sophia Hunger | Post-doctoral fellow at WZB Berlin | Political Science | Political Sociology | Research interests: party competition, protest, text-as-data"
+description              : "Sophia Hunger | Assistant Professor | Comparative Political Science | Political Sociology | Computational Social Science"
 url                      : https://sophiahunger.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               :  SophiaHunger/SophiaHunger.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Sophia Hunger"
   avatar           : "/assets/images/profilpic.png"
-  bio              : "Post-doctoral research fellow"
-  location         : "Berlin"
+  bio              : "Assistant Professor at University of Bremen"
+  location         : "Bremen"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sophia.hunger@wzb.eu"
+      url: "mailto:sophia.hunger@uni-bremen.de"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://sophiahunger.eu"
@@ -123,9 +123,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "BlueSky"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/SophiaHunger"
+      url: "https://bsky.app/profile/sophiahunger.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
