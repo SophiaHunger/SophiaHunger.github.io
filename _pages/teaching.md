@@ -5,6 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
+
+I am passionate about teaching the social sciences in a research-oriented, student-centered way. My goal is to empower students to independently evaluate and produce social science theories, methods, and empirical findings — so alongside conveying substantive knowledge, I see myself as much as a mentor and sparring partner as a lecturer. I combine traditional lectures with critical discussion, project-based learning, and hands-on lab sessions, place a strong emphasis on interdisciplinary co-teaching, and enjoy mentoring students and early career researchers at every stage, from Bachelor's to doctoral level. I also work to keep my teaching accessible and inclusive, and I help students engage critically and responsibly with digital tools such as AI and large language models.
+
+
+
+
 ## Graduate
   - Seminar: Specialization: Quantitative Methods in Political Science, University of Bremen (recurring, winter 2023/24–2026/27)
   - Seminar: Introduction to Quantitative Methods in Political Science, University of Bremen (2x per term, recurring, winter 2024/25–2026/27)
