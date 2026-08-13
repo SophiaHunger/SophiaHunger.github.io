@@ -106,7 +106,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://sophiahunger.eu"
     - label: "Bluesky"
-      icon: "fab fa-brands fa-bluesky"
+      icon: "fab fa-fw fa-users"
       url: "https://bsky.app/profile/sophiahunger.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
